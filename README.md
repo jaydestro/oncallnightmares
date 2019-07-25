@@ -13,3 +13,5 @@ Notice an issue?  Please submit it or feel free to fork and submit a pull reques
 [Episode 28 - Jason Hand - Microsoft](https://raw.githubusercontent.com/jaydestro/oncallnightmares/master/episode28.jason.hand.txt)
 
 [Episode 27 - Joseph Marhee - Packet](https://raw.githubusercontent.com/jaydestro/oncallnightmares/master/episode27.joseph.marhee.txt)
+
+[Episode 26 - Jacquelyne Grindrod - MedStack](https://raw.githubusercontent.com/jaydestro/oncallnightmares/master/episode26.jacquelyne.grindrod.txt)
