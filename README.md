@@ -2,6 +2,8 @@
 
 Notice an issue?  Please submit it or feel free to fork and submit a pull request.  
 
+[Episode 33 - Ben Halpern - DEV Community](https://github.com/jaydestro/oncallnightmares/blob/master/episode33.ben.halpern.txt)
+
 [Episode 32 - Matty Stratton - PagerDuty](https://github.com/jaydestro/oncallnightmares/blob/master/episode32.matty.stratton.txt)
 
 [Episode 31 - Jason Yee - Datadog](https://raw.githubusercontent.com/jaydestro/oncallnightmares/master/episode31.jason.yee.txt)
