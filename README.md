@@ -2,6 +2,8 @@
 
 Notice an issue?  Please submit it or feel free to fork and submit a pull request.  
 
+[Episode 36 - Micahel Stahnke](https://github.com/jaydestro/oncallnightmares/blob/master/episode36.micahel.stahnke.txt)
+
 [Episode 35 - Mike Grayson - Paychex](https://github.com/jaydestro/oncallnightmares/blob/master/episode35.mike.grayson.txt)
 
 [Episode 34 - Xander Grzywinski - Microsoft](https://github.com/jaydestro/oncallnightmares/blob/master/episode34.xander.grzywinski.txt)
