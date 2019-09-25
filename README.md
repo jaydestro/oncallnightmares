@@ -2,6 +2,8 @@
 
 Notice an issue?  Please submit it or feel free to fork and submit a pull request.  
 
+[Episode 39 -Dan Bentley ](https://github.com/jaydestro/oncallnightmares/blob/master/episode39.daniel.bentley.txt)
+
 [Episode 38 - Gene Kim](https://github.com/jaydestro/oncallnightmares/blob/master/episode38.gene.kim.txt)
 
 [Episode 37 - Jason Schuster](https://github.com/jaydestro/oncallnightmares/blob/master/episode37.jason.schuster.txt)
